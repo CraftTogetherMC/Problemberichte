@@ -7,6 +7,8 @@ assignees: J0schlZ
 
 ---
 
+**MC-Name:** Wie lautet dein Name in Minecraft?
+
 **Hat dein Fehler etwas mit einem Fehler zu tun?**
 Beschreibe genau worum es geht. z.B.: "Es ist immer unpraktisch wenn..."
 

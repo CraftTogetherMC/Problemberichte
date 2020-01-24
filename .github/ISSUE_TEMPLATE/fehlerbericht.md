@@ -7,6 +7,8 @@ assignees: J0schlZ
 
 ---
 
+**MC-Name:** Wie lautet dein Name in Minecraft?
+
 **Beschreibe dein Problem**
 Beschreibe uns eindeutig und detailliert, worum es geht und wie/wann/wo das Problem auftritt.
 
