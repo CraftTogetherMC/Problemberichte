@@ -2,7 +2,7 @@
 
 Hier könnt ihr uns alle Probleme und Fehler berichten die Auftreten.
 
-https://github.com/J0schlZ/CraftTogetherDE-Problemberichte/issues
+https://bugs.craft-together.de/
 
 
 
