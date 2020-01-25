@@ -9,10 +9,10 @@ assignees: J0schlZ
 
 **MC-Name:** Wie lautet dein Name in Minecraft?
 
-**Beschreibe dein Problem**
+**Problembeschreibung**
 Beschreibe uns eindeutig und detailliert, worum es geht und wie/wann/wo das Problem auftritt.
 
-**Reproduzieren**
+**Reproduktion**
 Folgende Schritte sind Notwendig um den Fehler zu reproduzieren (Bitte anpassen):
 1. Betrete Welt A
 2. Führe Befehl /xy aus
