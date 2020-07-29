@@ -27,7 +27,7 @@ Wenn möglich, bitte Screenshots anhängen!
 
 **Logfiles**
 Möchtest du eine Fehlerausgabe aus der Konsole oder ähnliche größere Texte einfügen,
-nutze bitte https://pastebin.com und füge den Link hier ein.
+nutze bitte https://gist.github.com/ und füge den Link hier ein.
 
 **Client-Version / Modifikationen**
 Client-Version: 1.15.2
