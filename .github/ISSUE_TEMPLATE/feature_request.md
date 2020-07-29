@@ -15,8 +15,8 @@ Beschreibe genau worum es geht. z.B.: "Es ist immer unpraktisch wenn..."
 **Was soll passieren?**
 Beschreibe detailliert und aufschlussreich, was du dir vorstellst.
 
-**Hast du alternativen in Erwägung gezogen?**
+**Hast du Alternativen in Erwägung gezogen?**
 Beschreibe uns ggf. aus deiner Sicht mögliche Alternativen.
 
 **Zusätzliche Informationen**
-Weblinks, Screenshots, alles was mit der Ideezu tun hat und Informationen und Eindrücke liefern kann.
+Weblinks, Screenshots, alles was mit der Idee zu tun hat und Informationen und Eindrücke liefern kann.
