@@ -1,6 +1,6 @@
 # CraftTogetherDE-Problemberichte
 
-Hier könnt ihr uns alle Probleme und Fehler berichten die Auftreten.
+Hier könnt ihr uns alle auftretenden Probleme und Fehler berichten.
 
 https://bugs.craft-together.de/
 
