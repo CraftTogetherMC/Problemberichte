@@ -1,19 +1,13 @@
-# CraftTogetherDE-Problemberichte
+# Interne CraftTogetherDE-Problemberichte
 
-Hier könnt ihr uns alle auftretenden Probleme und Fehler berichten.
+Hier können uns alle Teammitglieder auftretenden Probleme und Fehler berichten.
+Dies ist dazu da um einerseits nicht die öffentlichen Problemberichte zu nutzen,
+aber Fehler auch nicht in einfachen Nachrichten im Discord untergehen zu lassen.
 
-https://bugs.craft-together.de/
-
-
-
-Bitte nutzt __unbedingt__ die dafür vorgesehene Vorlage!
+**Alle** wichtigen und auch weniger wichtigen Probleme hier reinsenden!
 
 
 Vielen Dank!
 
 
 ### Craft-Together.de - Minecraft Server
-
-https://www.craft-together.de/
-
-**IP:** craft-together.de
