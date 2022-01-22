@@ -2,7 +2,7 @@
 
 Hier könnt ihr uns alle auftretenden Probleme und Fehler berichten.
 
-https://bugs.craft-together.de/
+https://github.com/CraftTogetherMC/Problemberichte
 
 
 
@@ -14,6 +14,6 @@ Vielen Dank!
 
 ### Craft-Together.de - Minecraft Server
 
-https://www.craft-together.de/
+https://www.craft-together-mc.de/
 
-**IP:** craft-together.de
+**IP:** craft-together-mc.de
