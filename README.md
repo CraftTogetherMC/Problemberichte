@@ -1,4 +1,4 @@
-# CraftTogetherDE-Problemberichte
+# CraftTogetherMC-Problemberichte
 
 Hier könnt ihr uns alle auftretenden Probleme und Fehler berichten.
 
@@ -12,7 +12,7 @@ Bitte nutzt __unbedingt__ die dafür vorgesehene Vorlage!
 Vielen Dank!
 
 
-### Craft-Together.de - Minecraft Server
+### Craft-Together-MC.de - Minecraft Server
 
 https://www.craft-together-mc.de/
 
