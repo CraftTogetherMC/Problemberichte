@@ -3,7 +3,7 @@ name: Feature request
 about: Teile uns deine Idee(n) mit!
 title: ''
 labels: ''
-assignees: J0schlZ
+assignees: Ceddix
 
 ---
 
