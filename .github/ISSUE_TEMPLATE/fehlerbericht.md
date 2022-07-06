@@ -3,7 +3,7 @@ name: Fehlerbericht
 about: Erstelle einen aussagekräftigen Fehlerbericht
 title: ''
 labels: ''
-assignees: J0schlZ
+assignees: Ceddix
 
 ---
 
