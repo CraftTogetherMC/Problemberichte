@@ -1,0 +1,76 @@
+name: Fehlerbericht
+description: Erstelle einen aussagekräftigen Fehlerbericht
+title: '[Fehler]: '
+labels: ''
+assignees:
+  - Ceddix
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Diese Seite soll uns helfen, Probleme so schnell wie möglich zu lösen.
+        Bitte nimm dir die Zeit und füllen dieses Formular bestmöglichst aus.
+  - type: input
+    id: name
+    attributes:
+      label: Minecraft Name
+      description: Wie lautet dein Name in Minecraft?
+      placeholder: ex. Ceddix
+    validations:
+      required: true
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Problembeschreibung
+      description: Beschreibe uns eindeutig und detailliert, worum es geht und wie/wann/wo das Problem auftritt.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduktion
+      description: Folgende Schritte sind notwendig, um den Fehler zu reproduzieren (Bitte anpassen):
+      value: |
+        1. Betrete Welt A
+        2. Führe Befehl /xy aus
+        3. Betrete Welt B
+        4. Der Fehler tritt auf."
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Erwartetes Verhalten
+      description: Eine eindeutige verständliche Erklärung, welches Verhalten im Normalfall erwartet wird.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Wenn möglich, bitte Screenshots anhängen!
+    validations:
+      required: false
+  - type: textarea
+    id: logfiles
+    attributes:
+      label: Logfiles
+      description: Möchtest du eine Fehlerausgabe aus der Konsole oder ähnliche größere Texte einfügen, nutze bitte https://gist.github.com/ und füge den Link hier ein.
+    validations:
+      required: false
+  - type: input
+    id: client-version
+    attributes:
+      label: Client-Version
+      description: Bitte gib die Version deines Clients und einen eventuellen Modloader an.
+      placeholder: 1.19.2
+    validations:
+      required: true
+  - type: input
+    id: modifications
+    attributes:
+      label: Installierte Modifikationen:
+      description: Bitte gib eine Liste installierter Client Modifikationen an.
+      placeholder: Optifine, Xaero's Minimap, [...]
+    validations:
+      required: false
