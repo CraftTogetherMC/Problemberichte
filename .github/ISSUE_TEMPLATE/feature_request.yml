@@ -13,7 +13,7 @@ body:
       placeholder: "ex. Ceddix"
     validations:
       required: true
- - type: textarea
+  - type: textarea
     id: feature-description
     attributes:
       label: "Was soll passieren?"
